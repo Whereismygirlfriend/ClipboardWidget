@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Build caches / intermediates
+build/
+dist/
+*.pkg
+
+# Local temp artifacts
+_extracted_exe_icon.png
