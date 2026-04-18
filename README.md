@@ -46,5 +46,5 @@
 
 ## 실행 파일
 
-- 배포용 실행 파일: `ClipboardWidget_onefile.exe` (또는 현재 배포 파일명)
+- 배포용 실행 파일: `ClipboardWidget_made by Where Is My Girlfriend.exe`
 - 별도 Python 설치 없이 실행 가능합니다.
